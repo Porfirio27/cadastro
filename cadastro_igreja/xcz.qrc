@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon.ico</file>
+    <file>usuario.png</file>
+    <file>cadeado.png</file>
+    <file>icon.png</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>
